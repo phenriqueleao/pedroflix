@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Vocal",
+      "link": "https://www.alura.com.br/formacao-front-end",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Formação de Cantor na Alura",
+        "url": "https://www.alura.com.br/cursos-online-front-end"
+      },
+      "videos": [
+        {
+          "titulo": "Aula de Canto Básico",
+          "url": "https://www.youtube.com/watch?v=Z6-dUR-y_CI"
+        },
+        {
+          "titulo": "Cantando do ZERO",
+          "url": "https://www.youtube.com/watch?v=8qbx0HQE-yE"
+        },
+        {
+          "titulo": "Canto para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=e9CxBCT3TWs"
+        },
+        {
+          "titulo": "Como cantar com drive",
+          "url": "https://www.youtube.com/watch?v=ftboO63epoE"
+        },
+        {
+          "titulo": "3 EXERCÍCIOS INFALÍVEIS PARA CANTAR BEM! - AULA DE CANTO E TECNICA VOCAL",
+          "url": "https://www.youtube.com/watch?v=KJ4VPJXP19w"
+        },
+        {
+          "titulo": "Como cantar bem",
+          "url": "https://www.youtube.com/watch?v=T2p1N2Nivhk"
+        },
+        {
+          "titulo": "Técnica vocal",
+          "url": "https://www.youtube.com/watch?v=jjXzzQNBHFo"
+        },
+        {
+          "titulo": "Como tirar voz da garganta",
+          "url": "https://www.youtube.com/watch?v=a8Cvhk2g6bE"
+        }        
+      ]
+    },
+    {
+      "titulo": "Guitarra",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Cursos de Guitarra na Alura",
+        "url": "https://www.alura.com.br/cursos-online-programacao"
+      },
+      "videos": [
+        {
+          "titulo": "Guitarra Nível Zero",
+          "url": "https://www.youtube.com/watch?v=UED5EJ58SOk"
+        },
+        {
+          "titulo": "GUITARRA PARA INICIANTES 1 - COMO COMEÇAR?",
+          "url": "https://www.youtube.com/watch?v=X3182sxwuuU"
+        },
+        {
+          "titulo": "Kit de Técnica para Guitarra Rock 2.0",
+          "url": "https://www.youtube.com/watch?v=fVJtTGb81Lk"
+        },
+        {
+          "titulo": "Aprenda Guitarra Fácil",
+          "url": "https://www.youtube.com/watch?v=7NsadEoCvsE"
+        }, 
+        {
+          "titulo": "Como adquirir VELOCIDADE na guitarra",
+          "url": "https://www.youtube.com/watch?v=I2oWm6jWhfQ"
+        }
+      ]
+    },
+    {
+      "titulo": "Contrabaixo",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "Cursos de Contrabaixo na Alura",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Aula 1 de Contrabaixo iniciante",
+          "url": "https://www.youtube.com/watch?v=MLGCZf6awE0"
+        },
+        {
+          "titulo": "Toque Contrabaixo em 10 minutos!",
+          "url": "https://www.youtube.com/watch?v=HL5HnA_ZOcw"
+        },
+        {
+          "titulo": "Aprenda Contrabaixo básico",
+          "url": "https://www.youtube.com/watch?v=inv4U4xFmCU"
+        },
+        {
+          "titulo": "Cotrabaixo Iniciante #04",
+          "url": "https://www.youtube.com/watch?v=-QbgLbDxlR8"
+        }
+      ]
+    },
+    {
+      "titulo": "Bateria",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Curso Bateria para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=A7VJQoKB7_I"
+        },
+        {
+          "titulo": "Curso de Bateria - Batidas",
+          "url": "https://www.youtube.com/watch?v=fXyDzojzhrM"
+        },
+        {
+          "titulo": "Aula para Iniciantes de Bateria",
+          "url": "https://www.youtube.com/watch?v=-YYA6MMz2O8"
+        },
+        {
+          "titulo": "Como tocar bateria?",
+          "url": "https://www.youtube.com/watch?v=se_jOEAdKAk"
+        }
+      ]
+    },
+    {
+      "titulo": "Produção Musical",
+      "cor": "red",
+      "link_extra": {
+        "text": "Formação de Produtor Musical na Alura",
+        "url": "https://www.alura.com.br/formacao-jogos-unity"
+      },
+      "videos": [
+        {
+          "titulo": "Curso de Produção musical",
+          "url": "https://www.youtube.com/watch?v=KTlFanaOOnw"
+        },
+        {
+          "titulo": "O que é produção musical?",
+          "url": "https://www.youtube.com/watch?v=L76XSTwxiR8"
+        },
+        {
+          "titulo": "Como usar o FL Studio",
+          "url": "https://www.youtube.com/watch?v=yiRlOeouS2k"
+        },
+        {
+          "titulo": "Produção musical - Interface Bateria",
+          "url": "https://www.youtube.com/watch?v=GQe-cQvbaGw"
+        },
+        {
+          "titulo": "7 Passos para se tornar produtor musical",
+          "url": "https://www.youtube.com/watch?v=1_o6GQ4X_g4"
+        }
+      ]
+    },
+    {
+      "titulo": "Piano",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "Curso sobre Piano na Alura",
+        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+      },
+      "videos": [
+        {
+          "titulo": "Aula de Piano para Iniciantes",
+          "url": "https://www.youtube.com/watch?v=5WZbJ8r3Om8"
+        },
+        {
+          "titulo": "Aula de Piano, aula 1",
+          "url": "https://www.youtube.com/watch?v=w-rBt4pSiqk"
+        },
+        {
+          "titulo": "Como tocar teclado do zero",
+          "url": "https://www.youtube.com/watch?v=jRTU59RMbYI"
+        },
+        {
+          "titulo": "Aula teclado 1",
+          "url": "https://www.youtube.com/watch?v=dvike1DQuXs"
+        },
+        {
+          "titulo": "Piano básico 1ª aula",
+          "url": "https://www.youtube.com/watch?v=9ThFoh8bxfk"
+        }
+      ]
+    }
+  ]
+}
